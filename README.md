@@ -1,4 +1,4 @@
-# Trabajo-Final-de-Grado
+# TFG - Geomtería Combinatoria
 ### CAT
    La geometria Combinatòria és una branca de la geometria Computacional que estudia les propietats combinatòries dels objectes geomètrics. Una de les seues propietats és el tipus d’ordre dels punts de l’espai geomètric el qual determina l’embolcall convex del conjunt.
    
